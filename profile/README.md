@@ -22,34 +22,7 @@ Simplify the complex process of creating 3D CAD files, breaking them into manage
 4. **PYV-Community-Store**
    - A centralized repository for community-created 3D buck files and resources.
 
----
 
-## Getting Started
-
-### Cloning the Repositories
-To clone any repository, use the following command:
-```bash
-# Replace <repo-name> with the desired repository
-git clone https://github.com/PrintYourVehicle/<repo-name>.git
-```
-
-### Installation Guide
-For detailed installation and usage instructions, refer to the `README.md` of each repository.
-
-### Contribution Guidelines
-We welcome contributions from developers, designers, and enthusiasts worldwide! Please follow these steps:
-1. Fork the repository you want to contribute to.
-2. Create a feature branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -m "Added your feature"`).
-4. Push to your branch (`git push origin feature/your-feature-name`).
-5. Submit a pull request.
-
-Refer to our [CONTRIBUTING.md](https://github.com/PrintYourVehicle/CONTRIBUTING.md) for more details.
-
-### Issues and Feature Requests
-Have a bug to report or a feature to request? Please create an issue in the respective repository using our standardized issue templates.
-
----
 
 ## Project Roadmap
 
@@ -64,16 +37,15 @@ Have a bug to report or a feature to request? Please create an issue in the resp
 - **AI Assistance**: Integrate local LLMs for real-time design and print recommendations.
 - **Advanced Analytics**: Track and optimize printer performance.
 
----
+
 
 ## Community and Support
 
 ### Join the Discussion
-- **Discord Server**: Connect with other developers and users in our [Discord community](https://discord.gg/printyourvehicle).
-- **Community Forum**: Share ideas and ask questions on our [forum](https://forum.printyourvehicle.com).
+- **Discord Server**: Connect with other developers and users in our [Discord community](https://discord.gg/VFyDEVWx7s).
 
 ### Contact Us
-- **Email**: support@printyourvehicle.com
+- **Email**: dyeusyt@gmail.com
 - **GitHub Discussions**: Use [GitHub Discussions](https://github.com/orgs/PrintYourVehicle/discussions) for feature requests and brainstorming.
 
 ---
