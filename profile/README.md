@@ -42,7 +42,7 @@ Simplify the complex process of creating 3D CAD files, breaking them into manage
 ## Community and Support
 
 ### Join the Discussion
-- **Discord Server**: Connect with other developers and users in our [Discord community](https://discord.gg/VFyDEVWx7s).
+- **Discord Server**: Connect with other developers and users in our [Discord community](https://discord.gg/65hQXzh43D).
 
 ### Contact Us
 - **Email**: dyeusyt@gmail.com
